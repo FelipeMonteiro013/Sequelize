@@ -1,0 +1,1 @@
+Aprofundando o conhecimento de node js com banco de dados SQL utilizando o ORM sequelize.
